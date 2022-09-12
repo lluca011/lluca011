@@ -1,11 +1,5 @@
 # sobre min
-- 👋 olá meu nome é @lluca011
-- 👍
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-lluca011/lluca011 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+. 👋 olá meu nome é @lluca011
+. 👍 meu email de contato é casagrande.lucas@escola.pr.gov.br
+. 👀 eu estou interessado em aprender a progamar novas lingugens.
+. 🌱eu estou aprendendo a programar recentemente a linguagem de javaScript e scratch.
